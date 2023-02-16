@@ -83,6 +83,12 @@ public class VentanaMostrarInfractores extends JFrame {
 	}
 
 
+	public void setControlador(Controlador controlador2) {
+		
+		
+	}
+
+
 	
 	
 
